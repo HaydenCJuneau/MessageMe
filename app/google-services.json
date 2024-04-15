@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227029856293",
+    "project_id": "itcs-5180-assignment-11",
+    "storage_bucket": "itcs-5180-assignment-11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227029856293:android:379e07dae54738f8c20fcc",
+        "android_client_info": {
+          "package_name": "com.example.messageme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv_SabGHeufY54uSv-Yg_zFZxs7JlcDAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
